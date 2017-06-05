@@ -1,0 +1,15 @@
+Source: zukitre-theme
+Section: x11
+Priority: optional
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Vcs-Browser: http://vcs.pardus.org.tr/packages/zukitre-theme.git
+Vcs-Git: http://vcs.pardus.org.tr/packages/zukitre-theme.git
+
+Package: zukitre-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: xfwm theme for Pardus 
+ "Zukitre-Dark" xfwm4 theme forked and packaged for Pardus.
+ 
